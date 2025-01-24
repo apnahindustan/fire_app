@@ -1,4 +1,4 @@
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwZs7CNKEQqvKcFEMdx7xkFLM9aFVSSqNMNtOe3t1wcWn1BlF9dvO7ojuLVKmPTcrZSqw/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyruv3LFOMSO2VM9TiFGX0cOIcYC7DjJc0D-0PGtQ099VCR2Q0pfgfDo9w2-nFZeF4BCA/exec";
 
 if (localStorage.getItem('fire_local')) {
     window.location.href = 'index.html';
